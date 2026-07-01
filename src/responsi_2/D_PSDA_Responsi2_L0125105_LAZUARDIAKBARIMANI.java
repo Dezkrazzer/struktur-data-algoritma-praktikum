@@ -79,7 +79,6 @@ class GrafPerpustakaan {
         System.out.println("[404] Rute tidak ditemukan.");
     }
 
-    // METHOD BARU: Visualisasi Denah ASCII dengan Arah Jalan
     private void cetakDenahPerpustakaan(String tujuan) {
         System.out.println("\n==========================================================================");
         System.out.println("|                        DENAH LOKASI PERPUSTAKAAN                       |");
